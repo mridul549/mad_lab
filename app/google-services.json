@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1024917016615",
+    "project_id": "mad-lab-53d18",
+    "storage_bucket": "mad-lab-53d18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024917016615:android:21c8555706fa0b632ffe02",
+        "android_client_info": {
+          "package_name": "com.example.lab_51"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASBkhsqQtigxKZj_Z06YxLwKiIYZz_UnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
